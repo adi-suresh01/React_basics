@@ -2,3 +2,13 @@
     color: aquamarine;
     background-color: wheat;
 }
+
+.box{
+    color: rgb(46, 214, 121);
+    background-color: azure;
+    width: 100px;
+    height: 150px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid whitesmoke;
+}
